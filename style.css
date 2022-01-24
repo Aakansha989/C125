@@ -1,0 +1,49 @@
+body
+{
+background-image:url("image.jpg");
+}
+
+.heading
+{
+    font-size: 23px;
+    text-align: center;
+    font-weight: bolder;
+    font-style: oblique;
+    font-variant: small-caps;
+    color:rgb(58, 3, 3);
+    width: 100%;
+    margin:0px;
+    box-shadow:10px 10px 10px rgb(238, 101, 101);
+}
+
+.note
+{
+    font-size: 15px;
+    font-weight: bolder;
+    font-style: italic;
+    color: rgb(126, 13, 13);
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color:rgba(204, 111, 100, 0.807);
+    line-height:3;
+    text-align: center;
+}
+
+canvas{
+    border: 5px solid rgb(218, 106, 106);
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+}
+
+video{
+    margin:40px;
+    border: 5px solid rgb(247, 102, 102);
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+}
